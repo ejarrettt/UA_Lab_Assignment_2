@@ -3,3 +3,8 @@ nxviz
 osmnx
 ipfn
 pandas
+warnings
+geopandas
+IPython
+matplotlib
+numpy
