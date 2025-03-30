@@ -3,8 +3,11 @@ nxviz
 osmnx
 ipfn
 pandas
-warnings
 geopandas
-IPython
+ipython
 matplotlib
 numpy
+seaborn
+scikit-learn
+scipy
+plotly
