@@ -1,7 +1,6 @@
 images/
 .ipynb_checkpoints/
-data/
+Data/
 .DS_Store
 cache/
 Screenshots/
-
